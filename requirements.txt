@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+pyinputplus
+pandas
+streamlit
+schedule
+python-dotenv
